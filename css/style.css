@@ -1,5 +1,23 @@
 body {
   background-color: #f8f8f8;
+  background-image: url(/img/takeoff_1920x1080.png);
+  background-repeat: no-repeat;
+  color: bisque;
+}
+
+.carousel-item {
+  height: 800px;
+}
+
+.item img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-height: 600px;
+}
+
+.background_FH {
+  background-image: url(/img/FH_bg.jpg);
 }
 
 .nav-menu {
