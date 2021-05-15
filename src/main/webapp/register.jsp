@@ -24,7 +24,7 @@
             <div class="navbar-nav">
                 <a class="nav-link" aria-current="page" href="index.html">Home</a>
                 <a class="nav-link" href="catalog.html">Catalog</a>
-                <a class="nav-link" href="/register">Register</a>
+                <a class="nav-link" href="/register">Register </a>
                 <a class="nav-link" href="/login.jsp">Log in</a>
             </div>
         </div>
