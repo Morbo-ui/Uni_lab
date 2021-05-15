@@ -1,0 +1,60 @@
+body {
+  background-color: #f8f8f8;
+  background-image: url(/img/takeoff_1920x1080.png);
+  background-repeat: no-repeat;
+  color: bisque;
+}
+
+.carousel-item {
+  height: 800px;
+}
+
+.item img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-height: 600px;
+}
+
+.background_FH {
+  background-image: url(/img/FH_bg.jpg);
+}
+
+.nav-menu {
+  list-style-type: none;
+}
+.nav-link {
+  text-decoration: none;
+  color: #939699;
+  font-family: "Lato", sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 14px;
+  line-height: 20px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+.item-header {
+  color: black;
+  font-size: 18px;
+  font-weight: 400;
+  background-color: #707070;
+}
+.item-short-description {
+  background-color: #707070;
+  font-size: 14px;
+  font-style: italic;
+  line-height: 16px;
+}
+.item-description {
+  color: #484343;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+}
+.rocket {
+  list-style-image: url(/img/shuttle.png);
+  font-family: "Roboto Slab";
+  font-size: small;
+}
